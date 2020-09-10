@@ -9,5 +9,16 @@ In order to prepare for the workshop make sure that:
 - You have a working version of Excel and have macro's enabled
 - The final version and youtube video will be made available after the workshop
 
+Important URL
+
+Getting all shares:
+https://api.iextrading.com/1.0/ref-data/symbols
+
+Getting shares of specific stock last 15 years (analysis of portfolio)
+https://cloud.iexapis.com/stable/stock/???/chart/6m?token=TOKEN
+
+Getting latest prices of stock (for the ticker)
+https://cloud.iexapis.com/stable/stock/???/quote?token=TOKEN
+
 
 
