@@ -20,5 +20,13 @@ https://cloud.iexapis.com/stable/stock/???/chart/6m?token=TOKEN
 Getting latest prices of stock (for the ticker)
 https://cloud.iexapis.com/stable/stock/???/quote?token=TOKEN
 
+To get the completed version working do the following:
+- Open the VBA editor
+- Goto ModAPI
+- On top of the module insert your id-key of IEXcloud and your pass of IEXcloud
+
+Remember that your free account limits the amount of data you can get.
+
+Enjoy!!
 
 
