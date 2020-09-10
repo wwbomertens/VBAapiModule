@@ -1,0 +1,13 @@
+This application is intended for the workshop Analyzing your portfolio Using a VBA API
+
+The application is intended for educational purposes. 
+
+In order to prepare for the workshop make sure that:
+
+- You have a working IEXcloud.io account. Visit the website to get a free account
+- You have downloaded the "20200820 API getting Shares Start V2.0.xlsm" file 
+- You have a working version of Excel and have macro's enabled
+- The final version and youtube video will be made available after the workshop
+
+
+
